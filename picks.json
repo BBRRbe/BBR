@@ -1,0 +1,29 @@
+[
+  {
+    "player": "Stephen Curry",
+    "bet_type": "Points",
+    "direction": "Over",
+    "line": 26.5,
+    "odds": "-115",
+    "confidence": 94,
+    "emoji": "\ud83d\udd25"
+  },
+  {
+    "player": "Fred VanVleet",
+    "bet_type": "Assists",
+    "direction": "Under",
+    "line": 4.5,
+    "odds": "+100",
+    "confidence": 87,
+    "emoji": "\ud83d\udcc8"
+  },
+  {
+    "player": "Kyle Connor",
+    "bet_type": "Shots",
+    "direction": "Over",
+    "line": 2.5,
+    "odds": "-165",
+    "confidence": 79,
+    "emoji": "\ud83d\udcb0"
+  }
+]
